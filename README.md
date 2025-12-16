@@ -1,4 +1,7 @@
 # Ender Hale's Game Dev Portfolio 2026
+### Email: [9683176@graniteschools.org]()
+
+## [Certification]()
 
 ## Term 1 Projects
 
