@@ -1,7 +1,7 @@
 # Ender Hale's Game Dev Portfolio 2026
 ### Email: [9683176@graniteschools.org]()
 
-## [Certification]()
+## [Certification](https://github.com/BugSlayer360/Portfolio/blob/main/Ender%20Hale_Game%20Development%20Fundamentals%201_12182025.pdf)
 
 ## Term 1 Projects
 
